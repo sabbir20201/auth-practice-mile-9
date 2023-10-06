@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Item A",
+    "dollar": 50,
+    "description": "This is the description for Item A in dollars."
+  },
+  {
+    "id": 2,
+    "name": "Item B",
+    "dollar": 75,
+    "description": "This is the description for Item B in dollars."
+  },
+  {
+    "id": 3,
+    "name": "Item C",
+    "dollar": 60,
+    "description": "This is the description for Item C in dollars."
+  },
+  {
+    "id": 4,
+    "name": "Item D",
+    "dollar": 90,
+    "description": "This is the description for Item D in dollars."
+  },
+  {
+    "id": 5,
+    "name": "Item E",
+    "dollar": 45,
+    "description": "This is the description for Item E in dollars."
+  },
+  {
+    "id": 6,
+    "name": "Item F",
+    "dollar": 55,
+    "description": "This is the description for Item F in dollars."
+  },
+  {
+    "id": 7,
+    "name": "Item G",
+    "dollar": 70,
+    "description": "This is the description for Item G in dollars."
+  },
+  {
+    "id": 8,
+    "name": "Item H",
+    "dollar": 65,
+    "description": "This is the description for Item H in dollars."
+  },
+  {
+    "id": 9,
+    "name": "Item I",
+    "dollar": 80,
+    "description": "This is the description for Item I in dollars."
+  },
+  {
+    "id": 10,
+    "name": "Item J",
+    "dollar": 55,
+    "description": "This is the description for Item J in dollars."
+  }
+]
